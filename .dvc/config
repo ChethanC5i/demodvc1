@@ -1,0 +1,4 @@
+[core]
+    remote = localfolder
+['remote "localfolder"']
+    url = D:\Projects\ML Training\demo folder1
